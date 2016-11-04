@@ -1,5 +1,4 @@
-# webtech-prj-transport
-Aplicatie de transport persoane
+#Aplicatie de transport persoane
 
 Ce problema vreau sa rezolv?
   - transportul intre persoane fizice
